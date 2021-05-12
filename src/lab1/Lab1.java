@@ -14,7 +14,7 @@ import utils.NewHibernateUtil;
 
 /**
  *
- * @author 18751
+ * @author 18766
  */
 public class Lab1 {
 
